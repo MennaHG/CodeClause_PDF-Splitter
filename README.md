@@ -1,4 +1,6 @@
 # CodeClause_PDF-Splitter
+
+Preview: https://clipchamp.com/watch/A7Ny0V7xFw4
 GUI javafx Application that splits PDF into multiple PDFs according to user's selection:
 
 1- Splitting each page into a separate PDF
